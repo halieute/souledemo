@@ -10,4 +10,6 @@ You can use repository to practice using Git and GitHub.
 
 ## Contributiors 
 
-The whole class. 
+The whole class if there is need to add more people.
+
+Thank you to all the contributors!
